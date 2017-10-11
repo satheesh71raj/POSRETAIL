@@ -1,2 +1,3 @@
 "Hello from git client" 
 "added second line" 
+added from master
